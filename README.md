@@ -19,7 +19,7 @@ I'm a passionate Front-end Developer specializing in creating high-performance w
 
 I transform complex designs into efficient, maintainable code with meticulous attention to detail and user experience.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
