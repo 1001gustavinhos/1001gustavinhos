@@ -8,14 +8,14 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate Front-end Developer specializing in creating high-performance web and mobile applications. My development philosophy centers on four core principles:
 
-🚀 **Performance** - Optimized, fast-loading applications  
-🎯 **Pixel Perfect** - Faithful implementation of designs  
-💡 **Usability** - Intuitive and accessible user experiences  
-📱 **Responsiveness** - Flawless performance across all devices
+ **Performance** - Optimized, fast-loading applications  
+ **Pixel Perfect** - Faithful implementation of designs  
+ **Usability** - Intuitive and accessible user experiences  
+ **Responsiveness** - Flawless performance across all devices
 
 I transform complex designs into efficient, maintainable code with meticulous attention to detail and user experience.
 
